@@ -1,2 +1,2 @@
-# SztucznaInteligencja
+# Sztuczna Inteligencja
  
